@@ -1,6 +1,11 @@
 <div align="center">
   
 <img width="10" height="10" alt="Image" src="https://www.image2url.com/r2/default/gifs/1779521283618-ae54f700-0e96-4393-b706-165585827611.gif" />
+
+<p align="center">
+  <img src="https://www.image2url.com/r2/default/images/1779886918399-3af04b9d-8668-48c5-bbdc-c2a450d90087.jpg" />
+</p>
+My art btw :P
 <!--
 **01-W/01-W** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
